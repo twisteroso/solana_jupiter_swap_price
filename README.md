@@ -1,6 +1,7 @@
 # Jupiter Swap Price (Solana)
 
 Мгновенная цена свопа на Jupiter Aggregator (Solana).  
+
 Показывает лучший курс и маршрут.
 
 
